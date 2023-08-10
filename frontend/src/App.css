@@ -1,0 +1,16 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder{
+  width: 960px;
+  margin: 0 auto;
+}
+
+h2{
+  font-weight: 400;
+  color: #2e64a1;
+  margin: 0 0 1em;
+}
