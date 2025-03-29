@@ -1,4 +1,4 @@
-# ProyectReact
+# React Project (fullstack MERN)
 
 Project were made using React, Node.js, HTML, CSS, JavaScript, MySql.
 
