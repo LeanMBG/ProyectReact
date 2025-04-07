@@ -29,8 +29,6 @@ Node.js
 
 Express.js
 
-MongoDB / MySQL (optional or for future scalability)
-
 Other Tools:
 Cloudinary (for image storage)
 
