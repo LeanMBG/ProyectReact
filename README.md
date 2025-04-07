@@ -3,6 +3,8 @@
 📌 Project Description
 This demonstrates a Full Stack MERN project developed as part of my learning journey in web development. It showcases a complete application built from scratch using MongoDB, Express, React, and Node.js, along with other complementary technologies like JavaScript, HTML, CSS, MySQL, Cloudinary, and PHPMyAdmin.
 
+[![Watch the video](https://img.youtube.com/vi/oFBh9NGjz_M/hqdefault.jpg)](https://youtu.be/oFBh9NGjz_M)
+
 💻 About the Project
 The web application features a news portal where users can read public posts without logging in. Once logged in as an Admin, full CRUD functionality (Create, Read, Update, Delete) becomes available to manage the content.
 
